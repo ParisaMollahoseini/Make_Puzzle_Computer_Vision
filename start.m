@@ -3,7 +3,8 @@ close all
 clear ;
 
 name = 'Puzzle_1_40';
-address = 'patch'; 
+dir = 'E:\my_courses\com vision\project\puzzle_project';
+address = append(dir , '\patch'); 
 original_address = 'Original.tif';
 
 
